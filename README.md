@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
    php artisan migrate
    ```
 
-6. **Build frontend assets:**
+6. **Build frontend assets (tailwind):**
    ```sh
    npm run dev
    ```
